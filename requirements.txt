@@ -6,4 +6,4 @@ datetime
 plotly==4.14.3
 pillow
 imblearn
-pickle
+pickle5
