@@ -4,6 +4,6 @@ pandas
 sklearn
 datetime
 plotly==4.14.3
-PIL
+pillow
 imblearn
 pickle
